@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AltayYuzeir
-- 👀 I’m interested in R and MatLab
+- 👀 I’m interested in R
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on Flow cytometry, Single cell analysis, Visual art with R
 - 📫 How to reach me? altay.yuzeir@gmail.com
