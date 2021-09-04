@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AltayYuzeir
 - 👀 I’m interested in R
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on Flow cytometry, Single cell analysis, Visual art with R
+- 💞️ I’m looking to collaborate on Visual art with R and creating webistes with R-Shiny
 - 📫 How to reach me? altay.yuzeir@gmail.com
 - https://www.linkedin.com/in/altayyuzeir/
 - https://altayyuzeir.shinyapps.io/home/
