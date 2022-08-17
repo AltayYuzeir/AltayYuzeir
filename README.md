@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AltayYuzeir
-- 👀 I’m interested in R
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on creating webistes and other onteractive tools with R-Shiny
+- 👀 I’m interested in R and Shiny
+- 🌱 I’m currently learning R and Shiny
+- 💞️ I’m looking to collaborate on creating webistes and other onteractive tools with R and Shiny
 - 📫 How to reach me? altay.yuzeir@gmail.com
 - https://www.linkedin.com/in/altayyuzeir/
 - https://altayyuzeir.shinyapps.io/home/
