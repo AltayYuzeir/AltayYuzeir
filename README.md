@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning R and Shiny
 - 💞️ I’m looking to collaborate on creating webistes and other onteractive tools with R and Shiny
 - 📫 How to reach me? altay.yuzeir@gmail.com
-- https://www.linkedin.com/in/altayyuzeir/
-- https://altayyuzeir.shinyapps.io/home/
+- :link: https://www.linkedin.com/in/altayyuzeir/
+- :globe_with_meridians: https://altayyuzeir.shinyapps.io/home/
 
 
 <!---
