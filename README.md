@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://altayyuzeir.shinyapps.io/home/">Website</a> •
-  <a href="https://twitter.com/AltayYuzeir">LinkedIn</a> •
-  <a href="https://www.linkedin.com/in/altayyuzeir/">Twitter</a>
+  <a href="https://www.linkedin.com/in/altayyuzeir/">LinkedIn</a> •
+  <a href="https://twitter.com/AltayYuzeir/">Twitter</a>
 
 </p>
 
