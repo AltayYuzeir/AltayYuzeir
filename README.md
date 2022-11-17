@@ -2,14 +2,14 @@
 <img src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/Business name V6.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AltayYuzeir&label=Profile%20views&color=orange&style=flat" alt="isrealodejobi" />
-</p>
 
 <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=AltayYuzeir&label=Profile%20views&color=orange&style=flat" alt="isrealodejobi" align="left"/>
     <a target="_blank" href="https://altayyuzeir.shinyapps.io/home/"><img src="https://img.shields.io/badge/-Webpage-informational?style=plastic&amp;labelColor=informational&amp;logo=R&amp;link=https://altayyuzeir.shinyapps.io/home/" alt="Website Badge"></a>
         <a target="_blank" href="https://linkedin.com/in/altayyuzeir/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/altayyuzeir/" alt="LinkedIn Badge"></a> 
          <a target="_blank" href="mailto:altay.yuzeir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-informational?style=plastic&amp;labelColor=informational&amp;logo=Gmail&amp;link=https://twitter.com/AltayYuzeir" alt="Twitter Badge"></a>
        <a target="_blank" href="https://twitter.com/@AltayYuzeir/"><img src="https://img.shields.io/badge/-Twitter-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/AltayYuzeir" alt="Twitter Badge"></a>
+
 
 </p>
 
@@ -20,7 +20,6 @@
 - 👋 Hi, I’m @AltayYuzeir
 - 👀 I’m interested in R and Shiny
 - 🌱 I’m currently learning R and Shiny
-- 💞️ I’m looking to collaborate on creating webistes and other onteractive tools with R and Shiny
 - 📫 My email altay.yuzeir@gmail.com
 - :link: LinkedIn https://www.linkedin.com/in/altayyuzeir/
 - :globe_with_meridians: Personal website https://altayyuzeir.shinyapps.io/home/
