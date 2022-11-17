@@ -39,9 +39,19 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AltayYuzeir&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=contribs&bg_color=00000000">
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=AltayYuzeir&theme=darcula&hide_border=true&background=FFFFFF00">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AltayYuzeir&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-
-
 </p>
+
+<hr>
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>
+<a target="_blank" href="https://altayyuzeir.shinyapps.io/home/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Atlassian&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/altayyuzeir"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:altay.yuzeir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/AltayYuzeir"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 
 
