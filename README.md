@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AltayYuzeir&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AltayYuzeir&label=Profile%20views&color=orange&style=flat" alt="isrealodejobi" />
 </p>
 
 <p align="center">
