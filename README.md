@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Altay Yuzeir</h3>
+<img src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/Business name V6.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AltayYuzeir&label=Profile%20views&color=orange&style=flat" alt="isrealodejobi" />
