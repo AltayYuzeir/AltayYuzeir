@@ -2,7 +2,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Altay Yuzeir</h3>
 
 <!-- Profile Views -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AltayYuzeir&label=Profile%20views&color=orange&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -14,6 +13,8 @@
 </p>
 
 ---
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 👋 Hi, I’m @AltayYuzeir
 - 👀 I’m interested in R and Shiny
