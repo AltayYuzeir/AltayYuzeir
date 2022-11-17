@@ -25,13 +25,16 @@
 - :dove: Twitter https://twitter.com/AltayYuzeir
 
 
-<h2>Connect with me </h3>
+<h2>Connect with me </h2>
     <p>
   <a href="https://altayyuzeir.shinyapps.io/home/"><img src="https://img.shields.io/badge/-Altay Yuzeir-informational?style=plastic&amp;labelColor=informational&amp;logo=R&amp;link=https://altayyuzeir.shinyapps.io/home/" alt="Website Badge"></a>
         <a href="https://linkedin.com/in/altayyuzeir/"><img src="https://img.shields.io/badge/-Altay%20Yuzeir%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/altayyuzeir/" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/@AltayYuzeir/"><img src="https://img.shields.io/badge/-Altay Yuzeir-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/AltayYuzeir" alt="Twitter Badge"></a>
-
    </p>
+
+  <h2>GitHub profile </h3>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AltayYuzeir&layout=compact&theme=dark&hide_border=true)
 
 
 
