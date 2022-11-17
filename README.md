@@ -27,9 +27,9 @@
   <h2>GitHub profile </h2>
   
   <p align="center">
-  <img height="auto" width="50%" src ="https://github-readme-stats.vercel.app/api?username=AltayYuzeir&hide_title=false&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=contribs&bg_color" align = "left">
+  <img height="auto" width="49%" src ="https://github-readme-stats.vercel.app/api?username=AltayYuzeir&hide_title=false&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide&bg_color" align = "left">
  <!--    <img src ="https://github-readme-streak-stats.herokuapp.com?user=AltayYuzeir&theme=darcula&hide_border=true&background"> -->
-  <img height="auto" width="45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AltayYuzeir&layout=compact&hide_border=true&theme=darcula&bg_color&langs_count=6&&exclude_repo">
+  <img height="auto" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AltayYuzeir&layout=compact&hide_border=true&theme=darcula&bg_color&langs_count=6&&exclude_repo">
 </p>
 
 <hr>
