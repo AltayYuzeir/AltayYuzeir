@@ -26,7 +26,7 @@
 - :dove: Twitter https://twitter.com/AltayYuzeir
 
 
-  <h2>GitHub profile </h2>
+  <h2>GitHub stats </h2>
   
   <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AltayYuzeir&hide_title=true&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=contribs&bg_color">
@@ -36,9 +36,9 @@
 
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>A problem can be solved in 100 different ways and yet, there is always an easier way to solve it.</i>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+   <i>You miss 100% of the shots you do not take.</i>
    <br>
 <br>
 <a target="_blank" href="https://altayyuzeir.shinyapps.io/home/"><img src="https://img.shields.io/badge/-Webpage-e68a00?style=for-the-badge&logo=Atlassian&logoColor=white"></img></a>	
