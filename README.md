@@ -26,7 +26,7 @@
 - :dove: Twitter https://twitter.com/AltayYuzeir
 
 
-  <h2>GitHub stats </h2>
+  <h2>GitHub profile </h2>
   
   <p align="center">
   <img height="auto" width="50%" src ="https://github-readme-stats.vercel.app/api?username=AltayYuzeir&hide_title=false&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=contribs&bg_color" align = "left">
