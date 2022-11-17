@@ -1,5 +1,5 @@
 <!-- Heading -->
-<img src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/Business name V6.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/banner.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 <!-- Profile Views -->
 
