@@ -11,18 +11,15 @@
 </p>
 
 ---
-<img align='right' src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/giphy.webp" width="230">
+<img align='right' src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/giphy.webp" width="150">
 
-<img align='right' src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/shiny_logo.png" width="170">
+<img align='right' src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/shiny_logo.png" width="150">
 
 
 - 👋 Hi, I’m @AltayYuzeir
-- 👀 I’m interested in R and Shiny
-- 🌱 I’m currently learning R and Shiny
-- 📫 My email altay.yuzeir@gmail.com
-- :link: LinkedIn https://www.linkedin.com/in/altayyuzeir/
-- :globe_with_meridians: Personal website https://altayyuzeir.shinyapps.io/home/
-- :dove: Twitter https://twitter.com/AltayYuzeir
+- :chart_with_upwards_trend: I am interested in Data analysis and Data visualization with R
+- :bar_chart: I like creting interactive web applications with Shiny
+- :octocat: I am strongly interested in open-source projects
 
   <h2>GitHub profile </h2>
   
