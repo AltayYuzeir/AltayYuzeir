@@ -21,6 +21,8 @@
 - :bar_chart: I like creting interactive web applications with Shiny
 - :octocat: I am strongly interested in open-source projects
 
+<br>
+
   <h2>GitHub profile </h2>
   
   <p align="center">
@@ -44,7 +46,6 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-
 <!---
 AltayYuzeir/AltayYuzeir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
