@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m @AltayYuzeir
 - :chart_with_upwards_trend: I am interested in Data analysis and Data visualization with R
-- :bar_chart: I like creting interactive web applications with Shiny
+- :bar_chart: I also like creting interactive web applications with Shiny
 - :octocat: I am strongly interested in open-source projects
 
 <br>
