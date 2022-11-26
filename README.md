@@ -9,7 +9,7 @@
          <a target="_blank" href="mailto:altay.yuzeir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-informational?style=plastic&amp;labelColor=informational&amp;logo=Gmail&amp;link=mailto:altay.yuzeir@gmail.com" alt="Twitter Badge"></a>
        <a target="_blank" href="https://twitter.com/AltayYuzeir/"><img src="https://img.shields.io/badge/-Twitter-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/AltayYuzeir" alt="Twitter Badge"></a>
 </p>
----
+<hr>
 <img align='right' src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/giphy.webp" width="150">
 
 <img align='right' src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/shiny_logo.png" width="150">
