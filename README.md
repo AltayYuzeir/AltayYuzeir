@@ -16,7 +16,7 @@
 
 
 - 👋 Hi, I’m @AltayYuzeir
-- :chart_with_upwards_trend: I am interested in Data analysis, Data visualization with R and Python
+- :chart_with_upwards_trend: I am interested in Data analysis and Data visualization with R and Python
 - :bar_chart: I also like creating interactive Dashboard applications with Shiny, Dash, Gradio and Streamlit
 - :octocat: I am strongly interested in open-source projects
 
