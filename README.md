@@ -7,7 +7,7 @@
     <a target="_blank" href="https://altayyuzeir.shinyapps.io/home/"><img src="https://img.shields.io/badge/-Webpage-informational?style=plastic&amp;labelColor=informational&amp;logo=Atlassian&amp;link=https://altayyuzeir.shinyapps.io/home/" alt="Website Badge"></a>
         <a target="_blank" href="https://linkedin.com/in/altayyuzeir/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/altayyuzeir/" alt="LinkedIn Badge"></a> 
          <a target="_blank" href="mailto:altay.yuzeir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-informational?style=plastic&amp;labelColor=informational&amp;logo=Gmail&amp;link=mailto:altay.yuzeir@gmail.com" alt="Twitter Badge"></a>
-       <a target="_blank" href="https://x.com/AltayYuzeir/"><img src="https://img.shields.io/badge/-Twitter-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/AltayYuzeir" alt="Twitter Badge"></a>
+       <a target="_blank" href="https://x.com/AltayYuzeir/"><img src="https://img.shields.io/badge/-Twitter-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://x.com/AltayYuzeir" alt="Twitter Badge"></a>
 </p>
 <hr>
 <img align='right' src="https://raw.githubusercontent.com/AltayYuzeir/AltayYuzeir/main/assets/giphy.webp" width="150">
@@ -40,7 +40,7 @@
 <a target="_blank" href="https://altayyuzeir.shinyapps.io/home/"><img src="https://img.shields.io/badge/-Webpage-e68a00?style=for-the-badge&logo=Atlassian&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/altayyuzeir"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:altay.yuzeir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/AltayYuzeir"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://x.com/AltayYuzeir"><img src="https://img.shields.io/badge/-X/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 <hr>
 
